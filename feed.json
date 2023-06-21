@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://therosesparis.github.io/publii-pages/second-post/",
+            "url": "https://therosesparis.github.io/publii-pages/second-post/",
+            "title": "Second post",
+            "author": {
+                "name": "Sarah Paris"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-20T19:10:47-07:00",
+            "date_modified": "2023-06-20T19:10:47-07:00"
+        },
+        {
             "id": "https://therosesparis.github.io/publii-pages/first-post/",
             "url": "https://therosesparis.github.io/publii-pages/first-post/",
             "title": "First Post",
